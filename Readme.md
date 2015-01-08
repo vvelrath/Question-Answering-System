@@ -71,7 +71,8 @@ Access the Web Application at http://localhost:8080/QA
 
 
 
-Demo system:                                                                                                              
+### Demo system:
+                                                                                                              
 core name: sampleinfo                                                                                                                          
 files indexed: 10000+                                       																					
 SOLR: on tomcat (local system) / on Jetty (hosted)																											
