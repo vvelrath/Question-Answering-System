@@ -8,7 +8,7 @@ http://qasysapp.herkuapp.com
 There are 3 steps to deploy the system(on a local machine) and see it work.
 
 Parsing the Wikipedia Dump: (files can be found in code/processor)
-=============	
+===================================	
 	The parsing involves extraction/selection of dump(Part-1) and then the actual conversion of the dump to SOLR indexable format(Part-2).
 
 	Part-1
@@ -30,7 +30,7 @@ Parsing the Wikipedia Dump: (files can be found in code/processor)
 
 
 Indexing using SOLR (files can be found in code/solr)
-=============
+===================================
 	Can be done with the prepackaged Jetty or custom Tomcat.
 	
 	I. Using Jetty Server: (comes packaged with SOLR http://www.apache.org/dyn/closer.cgi/lucene/solr/4.6.0)
@@ -69,7 +69,7 @@ Indexing using SOLR (files can be found in code/solr)
 	h. Follow steps as above method to index the files. (Step c)
 
 Deploying User Interface (files can be found in code/ui)
-=============
+===================================
 	a. Copy the folder QA into the webapps folder of tomcat. (http://apache.mirrors.tds.net/tomcat/tomcat-7/v7.0.47/bin/apache- 		   tomcat-7.0.47.tar.gz)
 	b. Start the tomcat server by startup.sh in /bin of tomcat. (In case it is not already started)
 	
