@@ -65,8 +65,9 @@ There are 3 steps to deploy the system(on a local machine) and see it work.
 	g. Start the tomcat server by startup.sh in /bin of tomcat.
 	h. Follow steps as above method to index the files. (Step c)
 
+	
 ### Deploying User Interface (files can be found in code/ui)
-===================================
+
 	a. Copy the folder QA into the webapps folder of tomcat. (http://apache.mirrors.tds.net/tomcat/tomcat-7/v7.0.47/bin/apache- 		   tomcat-7.0.47.tar.gz)
 	b. Start the tomcat server by startup.sh in /bin of tomcat. (In case it is not already started)
 	
