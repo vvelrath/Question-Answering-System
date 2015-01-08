@@ -1,4 +1,5 @@
-QA System (Team: Paradigm Members: Aravindhan, Aswin, Deepak, Vivek)
+Question Answering System
+==================
 
 The system has been deployed online using Amazon EC2 for the SOLR (Running on JETTY) and Heroku for the Web Application(UI).
 
