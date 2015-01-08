@@ -1,14 +1,11 @@
-Question Answering System
-==================
-
 The system has been deployed online using Amazon EC2 for the SOLR (Running on JETTY) and Heroku for the Web Application(UI).
 
-http://qasysapp.herkuapp.com
+http://qasysapp.herokuapp.com
 
 There are 3 steps to deploy the system(on a local machine) and see it work.
 
 Parsing the Wikipedia Dump: (files can be found in code/processor)
-===================================	
+===================================
 	The parsing involves extraction/selection of dump(Part-1) and then the actual conversion of the dump to SOLR indexable format(Part-2).
 
 	Part-1
